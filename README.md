@@ -1,6 +1,13 @@
 # Zusammenarbeit-mit-Git
-Haufgabe1 Pro.I
-Helena  Sinthia 
-Tcheum-tchoua Tchagop
-5151460
-Informatik
+
+Name: Tcheum-tchoua Tchagop
+Vorname: Helena  Sinthia 
+Matrikelnummer: 5151460
+Studiengang: Informatik
+geplanter Abschluss: Bachelor
+
+Name: 
+Vorname: 
+Matrikelnummer: 
+Studiengang: 
+geplanter Abschluss: 
